@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\NettyClientDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_loadingdialog.xml",
+        "source": "D:\\AndroidStudioProjects\\NettyClientDemo\\app\\src\\main\\res\\layout\\view_loadingdialog.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\NettyClientDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\AndroidStudioProjects\\NettyClientDemo\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

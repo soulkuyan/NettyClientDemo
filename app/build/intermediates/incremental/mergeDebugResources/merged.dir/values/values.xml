@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NettyClientDemo</string>
+    <string name="fail_number">失败个数:</string>
+    <string name="long_connect">长连接</string>
+    <string name="no_connect">未连接</string>
+    <string name="number_upload">上传个数:</string>
+    <string name="number_uploaded">已上传个数:</string>
+    <string name="received">接收：</string>
+    <string name="send">发送</string>
+    <string name="short_connect">短连接</string>
+    <string name="stress_test">压力测试</string>
+    <string name="total">总数:</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

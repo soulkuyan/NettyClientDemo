@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\NettyClientDemo\app\src\main\libs\netty-all-4.1.9.Final.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0097860965d6a0a6b98e7f569f3f966727b8db75">
+        <dex dex="D:\AndroidStudioProjects\NettyClientDemo\app\build\intermediates\pre-dexed\debug\netty-all-4.1.9.Final_e6ee942aedb89d702175877627fefa61c0763777.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\NettyClientDemo\app\src\main\libs\gson-2.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="973e832af433b44c3ed11c426f2f390b29f3f3f8">
+        <dex dex="D:\AndroidStudioProjects\NettyClientDemo\app\build\intermediates\pre-dexed\debug\gson-2.2.4_a9bfd99fa9a7628b24e2c00e87fb54fc858aebca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\NettyClientDemo\app\src\main\libs\protobuf-java-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="62ccf171a106ff6791507f2d5364c275f9a3131d">
+        <dex dex="D:\AndroidStudioProjects\NettyClientDemo\app\build\intermediates\pre-dexed\debug\protobuf-java-3.2.0_5b5a21725651f75f61d5d4b2adcc81dc00f867ca.jar" />
+    </item>
+
+</items>
